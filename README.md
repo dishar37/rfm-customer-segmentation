@@ -92,3 +92,17 @@ This analysis is based on historical transactions. RFM scores describe past purc
 ## Conclusion
 
 This project demonstrates how customer transaction data can be transformed into actionable business insights using Python and Power BI. RFM segmentation helps distinguish valuable customers, identify potential retention risks, and support more focused marketing decisions.
+
+## Power BI Dashboard Preview
+
+### 1. Business Overview
+![Business Overview](screenshots/business-overview.png)
+
+### 2. RFM Customer Segmentation
+![Customer Segmentation](screenshots/customer-segmentation.png)
+
+### 3. Customer and Product Analysis
+![Customer and Product Analysis](screenshots/customer-product-analysis.png)
+
+### 4. Business Insights and Recommendations
+![Business Insights](screenshots/business-insights.png)
