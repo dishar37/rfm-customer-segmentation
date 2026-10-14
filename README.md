@@ -105,4 +105,4 @@ This project demonstrates how customer transaction data can be transformed into 
 ![Customer and Product Analysis](screenshots/customer-product-analysis.png)
 
 ### 4. Business Insights and Recommendations
-![Business Insights](screenshots/business-insights.png)
+![Business Insights](screenshots/business-insights-and-recommendations.png)
